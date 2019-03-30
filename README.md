@@ -1,6 +1,6 @@
 # 武汉晴川学院计算机协会💻
 
-
+<br />
 
 ## 关于我们
 
@@ -8,29 +8,32 @@
 
 我们致力于帮助大家~~去 Stark Overflow 上~~了解、学习多种计算机软件、编程语言的使用，~~用重启和重装~~解决电子设备在日常生活中的问题。去拥抱更广大的互联网。
 
-
+<br />
 
 ----
 
-
+<br />
 
 ## 组织架构
 
+<div  style = "width: 100px;" ><img src="https://ws1.sinaimg.cn/large/ad7520e8gy1g1l8oxt7gij20cs0cst8y.jpg" /></div>
+
 **Shaw**  计算机协会理事会主席、监事会主席
 
-![pic](https://qlogo1.store.qq.com/qzone/474632248/474632248/50?1544359773)
+<br />
 
+<div  style = "width: 100px;" ><img src="https://ws1.sinaimg.cn/large/ad7520e8gy1g1l8zulwh3j20xc0xcjru.jpg" /></div>
 
+**其他所有**人  普通会员
 
-**其他所有**人 协会会员
-
-
+<br />
 
 ----
 
-
+<br />
 
 ## 联系我们
 
 微信漂流瓶
 
+<br />
