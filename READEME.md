@@ -16,13 +16,15 @@
 
 ## 组织架构
 
-**Shaw**  计算机协会理事会主席、监事会主席
+<div  style = "width: 100px;" ><img src="https://ws1.sinaimg.cn/large/ad7520e8gy1g1l8oxt7gij20cs0cst8y.jpg" /></div>
 
-![pic](https://qlogo1.store.qq.com/qzone/474632248/474632248/50?1544359773)
+**Shaw**  计算机协会理事会主席、监事会主席
 
 <br />
 
-**其他所有**人 协会会员
+<div  style = "width: 100px;" ><img src="https://ws1.sinaimg.cn/large/ad7520e8gy1g1l8zulwh3j20xc0xcjru.jpg" /></div>
+
+**其他所有**人  普通会员
 
 <br />
 
